@@ -40,7 +40,7 @@ Backend API: https://your-backend.onrender.com
 
 ## 🌐 Backend Repository
 
-https://github.com/silent-43/CareerConnect-Backend
+https://github.com/silent-43/React-Job-Portal-Backend
 
 ---
 
